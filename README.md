@@ -21,6 +21,10 @@ HC-06 (For Backup)
 
 ## CODE FOR MCU8200/ARDUINO MEGA
 
+The Code is written according to the Pinout of the ESP8266
+
+![](https://github.com/meghang-101/CozmoClench/blob/main/Capture.PNG)
+
 [Code](https://github.com/meghang-101/CozmoClench/blob/main/esp8266_01.ino)
 
 ```python
